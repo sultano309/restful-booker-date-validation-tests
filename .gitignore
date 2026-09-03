@@ -1,0 +1,15 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Coverage and tooling output
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
